@@ -140,8 +140,8 @@ The application is designed for easy deployment on platforms supporting Node.js:
 
 ## 👤 Author
 
-**Your Name**
-Name - Sumit Kumar
+
+**Name - Sumit Kumar**
 - LinkedIn: [https://www.linkedin.com/in/krsumit78/]
 - GitHub: [https://github.com/krsumit7]
 
