@@ -138,17 +138,12 @@ The application is designed for easy deployment on platforms supporting Node.js:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
 ## 👤 Author
 
 **Your Name**
-- Portfolio: [your-portfolio-url]
-- LinkedIn: [your-linkedin-url]
-- GitHub: [your-github-url]
+Name - Sumit Kumar
+- LinkedIn: [https://www.linkedin.com/in/krsumit78/]
+- GitHub: [https://github.com/krsumit7]
 
 ---
 
-**Built with ❤️ using modern web technologies**
